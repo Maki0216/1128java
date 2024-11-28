@@ -1,0 +1,11 @@
+package hw1128;
+
+public class p04 {
+	public static void main(String[] args) {
+		RacingCar rccar1;
+		rccar = new PacingCar();
+		
+		rccar1.setCar(1234,20.5);
+		rccar1.setCar(5);
+	}
+}
